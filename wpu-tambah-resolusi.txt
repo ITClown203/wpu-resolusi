@@ -1,5 +1,6 @@
 tambah resolusi 
 
 -belajar PHP
+* membuat web
 -membuat konten youtube mengenai skill
 
